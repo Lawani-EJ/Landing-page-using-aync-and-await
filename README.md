@@ -14,25 +14,14 @@ Hello welcome to the Game Builder website (Prototype) still on development, This
 4. JavaScript: For dynamic content and interactivity.
 5. JSONPlaceholder API: For fetching sample data.
 
+## Screenshots and Preview
+![image](https://github.com/user-attachments/assets/0b07382f-5ecf-42be-abca-7f751d0f4052)
+
+![image](https://github.com/user-attachments/assets/6b1e26df-8928-407a-b728-996c3da8daff)
+
 ### 📜 Code Overview
 #### HTML Structure
 The website includes a responsive navigation bar, a main header, and multiple sections showcasing different features of the platform. Below is a snippet of the main section:
-
-<div class="container col-xxl-8 px-4 py-5">
-  <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
-    <div class="col-10 col-sm-8 col-lg-6">
-      <img src="https://www.icegif.com/wp-content/uploads/2023/10/icegif-727.gif" class="d-block mx-lg-auto img-fluid" alt="Game Builder" width="700" height="500" loading="lazy">
-    </div>
-    <div class="col-lg-6">
-      <h1 class="display-5 lh-1 mb-3">Create Amazing Games with Ease</h1>
-      <p class="lead">Welcome to GameBuilder, the ultimate platform for designing and developing your own games. With our powerful tools and intuitive interface, you can bring your game ideas to life quickly and effortlessly.</p>
-      <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-        <button type="button" class="btn btn-dark btn-lg px-4 me-md-2">Start Building</button>
-        <button type="button" class="btn btn-outline-info btn-lg px-4">Learn More</button>
-      </div>
-    </div>
-  </div>
-</div>
 
 ## JavaScript Functionality
 The JavaScript code fetches and displays posts using the JSONPlaceholder API. Here's a sample of the code:
